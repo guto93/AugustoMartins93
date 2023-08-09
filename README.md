@@ -10,7 +10,6 @@
 ![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=guto93&show_icons=true&theme=onedark)
 
 ## TECNOLOGIAS ##
- Steks
 
  ![Static Badge](https://img.shields.io/badge/COBOL-silver)&nbsp;
  ![Static Badge](https://img.shields.io/badge/JCL-orange)&nbsp; 
